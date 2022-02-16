@@ -1,15 +1,16 @@
 {
-    "beaches": [
-        "https://github.com/gesab001/images/raw/main/beaches/beaches0.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches1.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches2.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches3.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches4.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches5.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches6.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches7.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches8.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches9.png",
-        "https://github.com/gesab001/images/raw/main/beaches/beaches10.png"
-    ]
+    "beaches": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches0.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches2.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches3.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches4.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches5.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches6.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches7.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches8.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches9.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1_beaches10.png"
+        ]
+    }
 }
