@@ -48,7 +48,6 @@ def getTotalFilesOfSubFolder(subfolder):
     totalFiles = len(subfolderlist)
     return totalFiles
 while True:
-  input("test")
   url =  input("url: " ) #"https://a.cdn-hotels.com/gdcs/production138/d1824/ed0d5995-0902-43d1-9644-1aa7a1a27d81.jpg"
   response = getImage(url)
   

@@ -1,16 +1,127 @@
 {
+    "animals": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals0.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals1.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals2.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals3.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals4.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals5.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals6.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals7.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals8.png",
+            "https://github.com/gesab001/images/raw/main/animals/1/1_animals9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals0.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals1.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals2.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals3.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals4.jpg",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals5.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals6.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals7.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals8.png",
+            "https://github.com/gesab001/images/raw/main/animals/2/2_animals9.png"
+        ],
+        "3": [
+            "https://github.com/gesab001/images/raw/main/animals/3/3_animals0.png",
+            "https://github.com/gesab001/images/raw/main/animals/3/3_animals1.png",
+            "https://github.com/gesab001/images/raw/main/animals/3/3_animals2.png",
+            "https://github.com/gesab001/images/raw/main/animals/3/3_animals3.png"
+        ]
+    },
     "beaches": {
         "1": [
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches0.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches2.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches3.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches4.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches5.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches6.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches7.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches8.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches9.png",
-            "https://github.com/gesab001/images/raw/main/beaches/1_beaches10.png"
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches0.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches2.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches3.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches4.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches5.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches6.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches7.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches8.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches9.png",
+            "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches10.png"
+        ]
+    },
+    "deserts": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts0.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts1.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts2.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts3.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts4.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts5.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts6.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts7.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts8.png",
+            "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts0.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts1.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts2.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts3.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts4.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts5.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts6.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts7.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts8.png",
+            "https://github.com/gesab001/images/raw/main/deserts/2/2_deserts9.png"
+        ],
+        "3": [
+            "https://github.com/gesab001/images/raw/main/deserts/3/3_deserts0.png",
+            "https://github.com/gesab001/images/raw/main/deserts/3/3_deserts1.png",
+            "https://github.com/gesab001/images/raw/main/deserts/3/3_deserts2.png"
+        ]
+    },
+    "mountains": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains0.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains1.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains2.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains3.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains4.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains5.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains6.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains7.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains8.png",
+            "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/mountains/2/2_mountains0.png",
+            "https://github.com/gesab001/images/raw/main/mountains/2/2_mountains1.png"
+        ]
+    },
+    "waterfalls": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls0.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls1.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls2.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls3.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls4.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls5.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls6.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls7.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls8.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/1/1_waterfalls9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls0.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls1.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls2.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls3.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls4.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls5.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls6.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls7.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls8.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/2/2_waterfalls9.png"
+        ],
+        "3": [
+            "https://github.com/gesab001/images/raw/main/waterfalls/3/3_waterfalls0.png",
+            "https://github.com/gesab001/images/raw/main/waterfalls/3/3_waterfalls1.png"
         ]
     }
 }
