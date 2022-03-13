@@ -45,6 +45,37 @@
             "https://github.com/gesab001/images/raw/main/beaches/1/1_beaches10.png"
         ]
     },
+    "coastlines": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines0.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines1.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines2.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines3.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines4.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines5.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines6.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines7.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines8.png",
+            "https://github.com/gesab001/images/raw/main/coastlines/1/1_coastlines9.png"
+        ]
+    },
+    "crops": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops0.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops1.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops2.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops3.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops4.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops5.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops6.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops7.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops8.png",
+            "https://github.com/gesab001/images/raw/main/crops/1/1_crops9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/crops/2/2_crops0.png"
+        ]
+    },
     "deserts": {
         "1": [
             "https://github.com/gesab001/images/raw/main/deserts/1/1_deserts0.png",
@@ -76,6 +107,109 @@
             "https://github.com/gesab001/images/raw/main/deserts/3/3_deserts2.png"
         ]
     },
+    "fire": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire0.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire1.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire2.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire3.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire4.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire5.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire6.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire7.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire8.png",
+            "https://github.com/gesab001/images/raw/main/fire/1/1_fire9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/fire/2/2_fire0.png",
+            "https://github.com/gesab001/images/raw/main/fire/2/2_fire1.png"
+        ]
+    },
+    "flowers": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers0.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers1.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers2.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers3.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers4.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers5.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers6.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers7.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers8.png",
+            "https://github.com/gesab001/images/raw/main/flowers/1/1_flowers9.png"
+        ]
+    },
+    "forests": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests0.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests1.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests2.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests3.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests4.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests5.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests6.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests7.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests8.png",
+            "https://github.com/gesab001/images/raw/main/forests/1/1_forests9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/forests/2/2_forests0.png",
+            "https://github.com/gesab001/images/raw/main/forests/2/2_forests1.png"
+        ]
+    },
+    "fruits": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits0.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits1.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits2.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits3.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits4.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits5.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits6.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits7.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits8.png",
+            "https://github.com/gesab001/images/raw/main/fruits/1/1_fruits9.png"
+        ]
+    },
+    "islands": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands0.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands1.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands2.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands3.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands4.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands5.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands6.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands7.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands8.png",
+            "https://github.com/gesab001/images/raw/main/islands/1/1_islands9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/islands/2/2_islands0.png"
+        ]
+    },
+    "lakes": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes0.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes1.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes2.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes3.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes4.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes5.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes6.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes7.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes8.png",
+            "https://github.com/gesab001/images/raw/main/lakes/1/1_lakes9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes0.png",
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes1.png",
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes2.png",
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes3.png",
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes4.png",
+            "https://github.com/gesab001/images/raw/main/lakes/2/2_lakes5.png"
+        ]
+    },
     "mountains": {
         "1": [
             "https://github.com/gesab001/images/raw/main/mountains/1/1_mountains0.png",
@@ -92,6 +226,161 @@
         "2": [
             "https://github.com/gesab001/images/raw/main/mountains/2/2_mountains0.png",
             "https://github.com/gesab001/images/raw/main/mountains/2/2_mountains1.png"
+        ]
+    },
+    "planets": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/planets/1/1_planets0.png"
+        ]
+    },
+    "rivers": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers0.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers1.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers2.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers3.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers4.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers5.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers6.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers7.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers8.png",
+            "https://github.com/gesab001/images/raw/main/rivers/1/1_rivers9.png"
+        ]
+    },
+    "rocks": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks0.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks1.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks2.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks3.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks4.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks5.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks6.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks7.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks8.png",
+            "https://github.com/gesab001/images/raw/main/rocks/1/1_rocks9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/rocks/2/2_rocks0.png"
+        ]
+    },
+    "sea": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea0.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea1.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea2.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea3.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea4.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea5.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea6.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea7.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea8.png",
+            "https://github.com/gesab001/images/raw/main/sea/1/1_sea9.png"
+        ]
+    },
+    "sky": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky0.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky1.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky2.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky3.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky4.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky5.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky6.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky7.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky8.png",
+            "https://github.com/gesab001/images/raw/main/sky/1/1_sky9.png"
+        ]
+    },
+    "snow": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow0.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow1.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow2.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow3.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow4.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow5.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow6.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow7.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow8.png",
+            "https://github.com/gesab001/images/raw/main/snow/1/1_snow9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow0.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow1.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow2.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow3.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow4.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow5.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow6.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow7.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow8.png",
+            "https://github.com/gesab001/images/raw/main/snow/2/2_snow9.png"
+        ]
+    },
+    "stars": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars1.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars0.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars1.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars2.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars3.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars4.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars5.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars6.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars7.png",
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars8.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/stars/1/1_stars9.png"
+        ]
+    },
+    "stones": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones0.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones1.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones2.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones3.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones4.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones5.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones6.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones7.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones8.png",
+            "https://github.com/gesab001/images/raw/main/stones/1/1_stones9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/stones/2/2_stones0.png"
+        ]
+    },
+    "trees": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees0.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees1.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees2.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees3.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees4.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees5.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees6.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees7.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees8.png",
+            "https://github.com/gesab001/images/raw/main/trees/1/1_trees9.png"
+        ],
+        "2": [
+            "https://github.com/gesab001/images/raw/main/trees/2/2_trees0.png"
+        ]
+    },
+    "valleys": {
+        "1": [
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys0.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys1.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys2.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys3.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys4.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys5.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys6.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys7.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys8.png",
+            "https://github.com/gesab001/images/raw/main/valleys/1/1_valleys9.png"
         ]
     },
     "waterfalls": {

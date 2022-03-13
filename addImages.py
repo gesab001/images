@@ -52,6 +52,10 @@ while True:
   response = getImage(url)
   
   mainFolder = os.listdir(folder)
+  totalSubFolders = len(mainFolder)
+  if(totalSubFolders==0):
+    createFolder(folder)  
+    mainFolder = os.listdir(folder)
   subFolderName = getLatestSubFolderName(mainFolder)
   filename = createFileName(subFolderName)
   totalFiles = getTotalFilesOfSubFolder(subFolderName)
@@ -85,6 +89,7 @@ while True:
    
   else:
    print("Key does not exist")
+   jsonObj[folder] = {"1": []}
    jsonObj[folder]["1"] = [githuburl]
   with open("imagesList.json", 'w') as out_file:
     json.dump(jsonObj, out_file, indent=4, sort_keys=True)
