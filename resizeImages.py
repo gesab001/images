@@ -102,12 +102,12 @@ for c in range(0, len(categories)):
 					if isFileExists(image48)==True:
 						os.remove(image48)
                         #subprocess.call("del " + imagePath)
-						subprocess.call("convert " +imagePath + "  -resize  48x48  " + image48, shell=True)
+						subprocess.call("convert -define jpeg:extent=100kb " +imagePath + "  -resize  48x48  " + image48, shell=True)
 						#subprocess.call("d " + imagePath)
 					if isFileExists(image48)==False:
 						#os.remove(image454)
                         #subprocess.call("del " + imagePath)
-						subprocess.call("convert " +imagePath + "  -resize  48x48  " + image48, shell=True)
+						subprocess.call("convert -define jpeg:extent=100kb " +imagePath + "  -resize  48x48  " + image48, shell=True)
 						#subprocess.call("d " + imagePath)
 					image500 = category + "/" + subfolder + "/" + "resize_500px_"+image
 					if isFileExists(image500)==False:

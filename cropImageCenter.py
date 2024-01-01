@@ -52,6 +52,8 @@ def cropImage(tvbackgroundfolder, _filename, aspectratio, outputFilename):
             i.save(filename=tvbackgroundfolder + "\\" + outputFilename)
             #display(i)
             
+def reduceFileSize(sourceFile, destFile):
+  command = "convert " + sourceFile +  " -define jpeg:extent=50kb " + destFile.replace("png", "jpg")         
 def isFileExists(path_to_file):
    file_exists = exists(path_to_file)
    print("file_exists: " + str(file_exists))
@@ -82,7 +84,30 @@ for c in range(0, len(categories)):
 						cropImage(tvbackgroundfolder, imagePath, aspectratio, outputFilename) 
 						subprocess.call("convert " +cropFilenamePath + "  -resize  48x48  " + image48, shell=True)
                         
-
+for c in range(0, len(categories)):   
+	category = categories[c]	
+	if(os.path.isdir(category)):
+		subfolders = os.listdir(category)
+		for s in range(0, len(subfolders)):
+			subfolder = subfolders[s]
+			imageList = os.listdir(category+"/"+subfolder)
+			print(imageList)
+			for x in range(0, len(imageList)):
+				image = imageList[x]
+				if image.startswith("resize")==False:
+					imagePath = category + "/" + subfolder + "/" + image
+					print(imagePath) 
+					image48 = category + "/" + subfolder + "/" + "resize_48px_"+image                   
+					if isFileExists(image48)==True:
+						#os.remove(image48)
+                        #subprocess.call("del " + imagePath)
+						#subprocess.call("convert " +imagePath + "  -resize  48x48  " + image48, shell=True)
+						tvbackgroundfolder = category + "/" + subfolder
+						filename = "resize_48px_"+image    
+						aspectratio = "1.1"
+						outputFilename = "crop_1.1_"+image 
+						cropFilenamePath = category + "/" + subfolder + "/" + outputFilename
+						reduceFileSize(cropFilenamePath, cropFilenamePath)
                         
                         
 
